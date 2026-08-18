@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix 2Shoes2Faar - 28 States Solo India Odyssey \u0026 Living Mosaic",
+  "description": "Portfolio and book launch platform for Channaveer Shankad (Veer) - 28 states in 28 weeks solo across India, featuring the interactive 1,000 Living India Mosaic and pre-order book ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
